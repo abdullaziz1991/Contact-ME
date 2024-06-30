@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732923680645",
+    "project_id": "contact-with-me-e90d0",
+    "storage_bucket": "contact-with-me-e90d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732923680645:android:ad2f375cc4de36a93ad6ec",
+        "android_client_info": {
+          "package_name": "com.abdullaziz.contact_with_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCj4Xx8QfTfMXjMv5ywSwYGXq-pY9Y24I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
